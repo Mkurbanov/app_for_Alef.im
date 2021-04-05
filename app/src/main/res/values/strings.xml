@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">App for Alef.im</string>
-    <string name="no_connection">Internet ýok</string>
-    <string name="please_connect_to_the_network">Tora birikmegiňizi haýyş edýäris</string>
-    <string name="error">Näsazlyk</string>
+    <string name="no_connection">нет соединения</string>
+    <string name="please_connect_to_the_network">пожалуйста, подключитесь к сети</string>
+    <string name="error">ошибка</string>
 </resources>
