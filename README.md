@@ -12,8 +12,8 @@
 
 1. MVVM
 
+## Screens:
    
-
 ![Screenshot_20210405_173835](https://github.com/Mkurbanov/app_for_Alef.im/blob/master/screens/Screenshot_20210405_173835.png)
 
 
